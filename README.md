@@ -14,9 +14,10 @@ District Summary excluding Thomas High 9th grade math and reading scores
 ![afterpic](Resources/School_District_Summary_v2.png)
 
 - School Summary
+
 With the inclustion of Thomas High math and reading scores,
 [Click for School Summaries including Thomas High Reading and Math](Resources/School_Summary_v1.png)
 
 
-[Click for School Summaries excluding Thomas High Reading and Math](Resources/School_Summary_v2.png)
+[Click for School Summaries excluding Thomas High Reading and Math]
 ## Summary
