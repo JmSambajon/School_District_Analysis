@@ -15,9 +15,13 @@ District Summary excluding Thomas High 9th grade math and reading scores
 
 - School Summary
 
-With the inclustion of Thomas High math and reading scores,
+With the inclustion of Thomas High 9th grade math and reading scores, the passing rates of math and reading were 93.27 and 97.31 respectively.
+
 [Click for School Summaries including Thomas High Reading and Math](Resources/School_Summary_v1.png)
 
+Removing the Thomas High 9th grade math and reading scores did not seem to change the passing rates of math and reading either. The new math and reading passing rates were 93.86 and 97.02, respectively.
 
-[Click for School Summaries excluding Thomas High Reading and Math]
+[Click for School Summaries excluding Thomas High Reading and Math](Resources/School_Summary_v2.png)
+
+If anything, the omission of those 9th grade scores gave a slight bump up in the overall passing rate. However, the raise in percentage is less than one percent and is still not a significant change.
 ## Summary
