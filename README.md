@@ -8,7 +8,7 @@ Maria, the chief data scientist for a city school district is asking us to help 
  After nullifying the math and reading scores for Thomas High 9th graders, there was less than a 1% drop on the overall passing rate for the school district.The change is insignificant on a district level and should not influence any decisions
 
 District Summary including Thomas High 9th grade math and reading scores
-![beforepic](Resources/School_District_Summary_v1.png)
+![beforepic]
 
 District Summary excluding Thomas High 9th grade math and reading scores
 ![afterpic](Resources/School_District_Summary_v2.png)
