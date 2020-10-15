@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of the School District Analysis
-Maria, the chief data scientist for a city school district is asking us to help analyze data on student fundsing and students' standardized test scores. We helped aggregate the data and showcased trends in school performance to assist the schoolboard and superintendent make decisons on the schools' budgets and priorities. After providing the schoolboard with our findings, we were notified about evidence of academic dishonesty; specifically reading and math grades for Thomas High school 9th graders. We have removed the reading and math sccores for Thomas High 9th graders while leaving the rest of the data intact. Here is our findings on the udpated analysis.
+Maria, the chief data scientist for a city school district is asking us to help analyze data on student funding and students' standardized test scores. We helped aggregate the data and showcased trends in school performance to assist the schoolboard and superintendent make decisons on the schools' budgets and priorities. After providing the schoolboard with our findings, we were notified about evidence of academic dishonesty; specifically reading and math grades for Thomas High school 9th graders. We have removed the reading and math sccores for Thomas High 9th graders while leaving the rest of the data intact. Here is our findings on the udpated analysis.
 
 ## Results
 - Analysis on a Disctict level
